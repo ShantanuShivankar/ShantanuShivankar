@@ -7,6 +7,9 @@ under [Dr Riender Happee](https://www.tudelft.nl/staff/r.happee/)
 BTech in **Mechanical Engineering** from **Manipal Institute of Technology, India**
 Bachelors Thesis in **Design and functionality validation of reduction gerabox of FSAE electric vehicle** under [Shrihari Upadhyaya](https://manipal.edu/mit/department-faculty/faculty-list/y-shrihari-upadhyaya/_jcr_content.html)
 
+# Contact
+[Linkedin](https://www.linkedin.com/in/shantanu-shivankar)  [Gmail](mailto:shantanu.shivankar1995@gmail.com)
+
 <!---
 ShantanuShivankar/ShantanuShivankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
